@@ -1,7 +1,13 @@
 # geakminds_projects
 
-3) Animal Classification
+2) Lung Cancer Classification
    - Used the following Kaggle dataset: https://www.kaggle.com/datasets/alessiocorrado99/animals10/data
    - Created 2 different approaches to solving the task, one using CNN and another using VGG16
-   - Make sure to have the selected python notebook (CNN or VGG16), the csv file of the image categories, and 10 files for each of the animal's images stored into each folder
+   - Make sure to have the selected python notebook (CNN or VGG16), the csv file of the image categories, and 10 folders for each of the animal's images stored into each folder (names must be in spanish, similiar to the kaggle files)
    - Run this locally to get the results
+
+3) Animal Classification
+   - Used the following Kaggle dataset: [https://www.kaggle.com/datasets/alessiocorrado99/animals10/data](https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-dataset)
+   - Used CNN to complete the task
+   - Make sure to have the python notebook, the csv file of the image categories, and 4 folders for each of the lung cancer classifcations and a test one (Bengin cases, Malignant cases, Normal cases, and Test cases)
+   - Run this on google colab to get the results
