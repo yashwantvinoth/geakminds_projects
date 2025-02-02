@@ -1,6 +1,5 @@
 import streamlit as st
 import requests
-import openai
 from datetime import datetime
 
 def get_weather_data(city, api_key):
@@ -57,7 +56,7 @@ def main():
     city = st.sidebar.text_input('Type the name of the city', 'San Francisco')
     enter = st.sidebar.button('Generate Weather')
 
-    weather_api_key = '16d7fd19bd44d59ab8723044eb36888f'
+    weather_api_key = 'enter weather api key here'
 
     if enter:
         st.title(city + ' Weather Updates')
