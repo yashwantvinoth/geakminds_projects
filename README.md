@@ -19,3 +19,13 @@ Created many AI models to represent different model development skills, categori
    - Used CNN to complete the task
    - Make sure to have the python notebook, the csv file of the image categories, and 4 folders for each of the lung cancer classifcations and a test one (Bengin cases, Malignant cases, Normal cases, and Test cases)
    - Run this locally to get the results
+
+4) Natural Language Model
+   - Created with the assistance with llama model 3.2: 1B & 3B -> (https://www.llama.com/llama-downloads/)
+   - Also need huggingface token: (https://huggingface.co/settings/tokens)
+   - Run this in google colab to get the results
+
+5) Weather Project
+   - Created with the assistance of OpenWeatherMap -> (https://api.openweathermap.org/)
+   - Shows projected weather of the entered city
+   - Run this locally to get the results
